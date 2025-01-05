@@ -1,0 +1,1 @@
+1. Separate the code that varies a lot from the code that does not vary

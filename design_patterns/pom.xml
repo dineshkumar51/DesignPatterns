@@ -9,9 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>simple_factory_pattern</module>
-        <module>factory_method_pattern</module>
-        <module>abstract_factory_pattern</module>
+        <module>1_simple_factory_pattern</module>
+        <module>2_factory_method_pattern</module>
+        <module>3_abstract_factory_pattern</module>
     </modules>
 
     <properties>

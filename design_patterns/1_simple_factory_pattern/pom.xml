@@ -9,6 +9,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>abstract_factory_pattern</artifactId>
+    <artifactId>1_simple_factory_pattern</artifactId>
 
 </project>

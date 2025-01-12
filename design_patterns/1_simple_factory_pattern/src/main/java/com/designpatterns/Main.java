@@ -7,6 +7,7 @@ It creates an object without exposing the instantiation logic to the client.
 The factory pattern provides a centralized point of control for object creation, which makes maintenance and testing easier.
 The factory pattern promotes code reusability by defining common creation logic in superclass methods
 The factory pattern makes it easy to add new product types without modifying existing client code.
+But this pattern violate open/close principle
  */
 public class Main {
 

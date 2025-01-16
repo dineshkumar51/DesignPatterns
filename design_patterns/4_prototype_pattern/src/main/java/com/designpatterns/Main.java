@@ -3,6 +3,11 @@ package com.designpatterns;
 import com.designpatterns.prototype.Car;
 import com.designpatterns.prototype.CarProvider;
 
+/*
+This pattern provides an alternative method for instantiating new objects by copying or cloning an instance of an existing object.
+Thus, you can avoid the expense of creating a new instance using this concept.
+ */
+
 public class Main {
 
     public static void main(String[] args) throws CloneNotSupportedException {

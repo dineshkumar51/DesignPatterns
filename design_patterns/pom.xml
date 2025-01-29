@@ -17,6 +17,9 @@
         <module>6_singleton_pattern</module>
         <module>7_proxy_pattern</module>
         <module>8_decorator_pattern</module>
+        <module>9_adaptor_pattern</module>
+        <module>10_facade_pattern</module>
+        <module>11_flyweight_pattern</module>
     </modules>
 
     <properties>
